@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "tsc && node js/app.js",
+    "dev": "nodemon"
+  },
+  "devDependencies": {
+    "concurrently": "^4.1.0",
+    "nodemon": "^1.18.9"
+  }
+}
